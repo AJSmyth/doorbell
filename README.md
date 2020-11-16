@@ -1,8 +1,8 @@
-# Dorbell Jingle Utility  
+# Dorbell Code Utility  
 A utitlity to parse and play doorbell codes.  
 Inspired by Jules Conroy's [video series](https://www.youtube.com/playlist?list=PLZZXmq_kEtcTfNE7gfDtoUbKca77TVszU) about his programmable doorbell.  
   
-# # Syntax (Taken from [this video's description](https://youtu.be/RXWSx0mg1TA)):  
+## Syntax (Taken from [this video's description](https://youtu.be/RXWSx0mg1TA)):  
 1. Write "Program"  
 2. Enter code:  
    a. "*" if second octave note  
@@ -11,7 +11,7 @@ Inspired by Jules Conroy's [video series](https://www.youtube.com/playlist?list=
    d. Comma  
 3. "00" to end it  
   
-# # #Notes:  
+### Notes:  
   C - 0  
   C#/Db - 1 
   D - 2  
@@ -25,7 +25,7 @@ Inspired by Jules Conroy's [video series](https://www.youtube.com/playlist?list=
   A#/Bb - A  
   B - b  
   
-# # #Rhythms:  
+### Rhythms:  
   Eight Note - 1  
   Quarter Note - 2  
   Dotted Quarter Note - 3  
@@ -33,5 +33,5 @@ Inspired by Jules Conroy's [video series](https://www.youtube.com/playlist?list=
   Dotted Half Note - 5  
   Whole Note - 6  
 
-# # #Example from [NintendoCapriSun](https://www.youtube.com/channel/UCKrFXqpQj3gM98LF22Yq8Kg):  
+### Example from [NintendoCapriSun](https://www.youtube.com/channel/UCKrFXqpQj3gM98LF22Yq8Kg):  
 b4, 94, 54, b4, 94, 54, b4, 94, 43, 23, 43, 00
