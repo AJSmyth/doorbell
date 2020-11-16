@@ -1,7 +1,7 @@
 # Doorbell Code Utility  
 A utitlity to parse and play doorbell codes.  
 Inspired by Jules Conroy's [video series](https://www.youtube.com/playlist?list=PLZZXmq_kEtcTfNE7gfDtoUbKca77TVszU) about his programmable doorbell.  
-  
+
 ## Syntax (Taken from [this video's description](https://youtu.be/RXWSx0mg1TA)):  
 1. Write "Program"  
 2. Enter code:  
@@ -10,10 +10,10 @@ Inspired by Jules Conroy's [video series](https://www.youtube.com/playlist?list=
    c. Rhythm code number  
    d. Comma  
 3. "00" to end it  
-  
+
 ### Notes:  
   C - 0  
-  C#/Db - 1 
+  C#/Db - 1
   D - 2  
   D#/Eb - 3  
   E - 4  
@@ -24,7 +24,7 @@ Inspired by Jules Conroy's [video series](https://www.youtube.com/playlist?list=
   A - 9  
   A#/Bb - A  
   B - b  
-  
+
 ### Rhythms:  
   Eight Note - 1  
   Quarter Note - 2  
@@ -35,3 +35,7 @@ Inspired by Jules Conroy's [video series](https://www.youtube.com/playlist?list=
 
 ### Example from [NintendoCapriSun](https://www.youtube.com/channel/UCKrFXqpQj3gM98LF22Yq8Kg):  
 b4, 94, 54, b4, 94, 54, b4, 94, 43, 23, 43, 00
+
+# Installation
+Dependencies are listed in requirements.txt, and can easily be installed with:   
+  pip -r requirments.txt
