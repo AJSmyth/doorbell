@@ -37,5 +37,6 @@ Inspired by Jules Conroy's [video series](https://www.youtube.com/playlist?list=
 b4, 94, 54, b4, 94, 54, b4, 94, 43, 23, 43, 00
 
 # Installation
-Dependencies are listed in requirements.txt, and can easily be installed with:   
+Executables for Windows and Linux can be located in the bin directory.  
+Alternatively, dependencies are listed in requirements.txt, and can easily be installed with:   
   pip -r requirments.txt
