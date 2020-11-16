@@ -34,6 +34,7 @@ class Window(QWidget):
         self.loLarge.addLayout(self.loEnter, 0)
 
         self.setLayout(self.loLarge)
+        self.setFixedSize(364,100)
 
     def on_submit(self):
         string_to_wav(self.text.text(), self.bpm.value())
