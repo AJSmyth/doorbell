@@ -1,4 +1,4 @@
-# Dorbell Code Utility  
+# Doorbell Code Utility  
 A utitlity to parse and play doorbell codes.  
 Inspired by Jules Conroy's [video series](https://www.youtube.com/playlist?list=PLZZXmq_kEtcTfNE7gfDtoUbKca77TVszU) about his programmable doorbell.  
   
