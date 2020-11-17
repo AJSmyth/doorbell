@@ -1,6 +1,5 @@
 # Doorbell Code Utility  
-A utitlity to parse and play doorbell codes.  
-Inspired by Jules Conroy's [video series](https://www.youtube.com/playlist?list=PLZZXmq_kEtcTfNE7gfDtoUbKca77TVszU) about his programmable doorbell.  
+A utitlity to parse and play doorbell codes. Inspired by Jules Conroy's [video series](https://www.youtube.com/playlist?list=PLZZXmq_kEtcTfNE7gfDtoUbKca77TVszU) about his programmable doorbell.  
 
 ## Syntax (Taken from [this video's description](https://youtu.be/RXWSx0mg1TA)):  
 1. Write "Program"  
@@ -37,6 +36,5 @@ Inspired by Jules Conroy's [video series](https://www.youtube.com/playlist?list=
 b4, 94, 54, b4, 94, 54, b4, 94, 43, 23, 43, 00
 
 # Installation
-Executables for Windows and Linux can be located in the bin directory.  
-Alternatively, dependencies are listed in requirements.txt, and can easily be installed with:   
+Executables for Windows and Linux can be located in the bin directory. Alternatively, dependencies are listed in requirements.txt, and can easily be installed with:   
   pip -r requirments.txt
