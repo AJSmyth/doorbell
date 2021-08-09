@@ -36,5 +36,5 @@ A utitlity to parse and play doorbell codes. Inspired by Jules Conroy's [video s
 b4, 94, 54, b4, 94, 54, b4, 94, 43, 23, 43, 00
 
 # Installation
-Executables for Windows and Linux can be located in the bin directory. Alternatively, dependencies are listed in requirements.txt, and can easily be installed with:   
+Dependencies are listed in requirements.txt, and can easily be installed with:   
   pip -r requirments.txt
